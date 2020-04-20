@@ -1,3 +1,5 @@
+#Comentariu 
+
 FROM nginxinc/nginx-unprivileged
 
 COPY www /www
