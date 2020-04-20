@@ -1,4 +1,4 @@
-#Comentariu 
+ 
 
 FROM nginxinc/nginx-unprivileged
 
